@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdevtest"
+  site-url: "https://ianxek.github.io/nbdevtest"
+  description: "Testing nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/ianxek/nbdevtest"
